@@ -1,0 +1,22 @@
+.bg-hackclub {
+	background-color: rgb(3,155,229);
+    color: rgba(255,255,255,1);
+}
+
+.btn_delete {
+	cursor: pointer !important;
+}
+
+[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+  display: none !important;
+}
+
+
+.btn.disabled, .btn:disabled {
+    cursor: not-allowed;
+}
+
+.done {
+	color: #999;
+    text-decoration: line-through;
+}
