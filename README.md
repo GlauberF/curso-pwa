@@ -10,7 +10,7 @@
 <br>
 
 Nesse curso iremos abordar de uma forma prática, como transformar sua aplicação web em PWA, usando o pacote workbox da google.<br>
-**obs**: O curso estara disponível no youtube.
+**obs**: os vídeos estrão disponiveis no youtube.
 
 <br>
 <br>
