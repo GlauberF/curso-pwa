@@ -3,6 +3,7 @@
 **Instrutor: Glauber funez**
 
 <br>
+
 ![](https://raw.githubusercontent.com/GlauberF/curso-pwa/master/curso%20pwa.gif)
 
 <br>
