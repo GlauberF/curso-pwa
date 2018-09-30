@@ -23,11 +23,6 @@ site: [Workbox](https://developers.google.com/web/tools/workbox/).
 <br>
 <br>
 
-**Obs**: <br>
-Nosso curso como não tem foco o desenvolviemnto do código da aplicação, usamos como base o seguinte código https://github.com/amitsin6h/todo-mean-app.
-
-<br>
-<br>
 
 **Dúvidas**<br>
 para deixarmos um canal único de comunicação, dúvidas que vierem a tender sobre o curso, entrar em contato através de mensagem na página seguinte: https://www.facebook.com/glauberfunez.dev/
