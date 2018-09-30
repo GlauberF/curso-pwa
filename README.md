@@ -3,7 +3,7 @@
 **Instrutor: Glauber funez**
 
 <br>
-[![preview](curso pwa.gif)]
+[![preview](curso_pwa.gif)](https://github.com/GlauberF/curso-pwa)
 
 <br>
 <br>
