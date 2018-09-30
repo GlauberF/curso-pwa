@@ -47,7 +47,7 @@ app.controller("myCtrl", function($scope, $http) {
     $scope.done = function(id, task) {
         // console.log('done', id)
         // console.log('done', task)
-        
+
         $http.put('api/put/task/' + id, task)
             .then(function(success){
                 $scope.notifica('success', 'Tarefa atualizada com sucesso!')
