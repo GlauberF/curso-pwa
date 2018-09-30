@@ -3,6 +3,9 @@
 **Instrutor: Glauber funez**
 
 <br>
+[![preview](curso pwa.gif)]
+
+<br>
 <br>
 
 Nesse curso iremos abordar de uma forma prática, como transformar sua aplicação web em PWA, usando o pacote workbox da google.<br>
