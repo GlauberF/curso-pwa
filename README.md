@@ -6,13 +6,8 @@
 <br>
 
 Nesse curso iremos abordar de uma forma prática, como transformar sua aplicação web em PWA, usando o pacote workbox da google.<br>
-O curso estara disponível no youtube.
+**obs**: O curso estara disponível no youtube.
 
-
-<br>
-<br>
-
-**Curso no youtube** : 
 <br>
 <br>
 
@@ -20,6 +15,10 @@ O curso estara disponível no youtube.
 Workbox é um conjunto de bibliotecas e módulos do Node que facilitam o armazenamento em cache dos ativos e o aproveitamento total dos recursos usados para criar aplicativos da Web progressivos.<br>
 site: [Workbox](https://developers.google.com/web/tools/workbox/).
 
+<br>
+<br>
+
+**Curso no youtube** : 
 <br>
 <br>
 
